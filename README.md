@@ -1,1 +1,1 @@
-memory
+Simple memory game.
